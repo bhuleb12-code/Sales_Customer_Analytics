@@ -1,0 +1,25 @@
+# Power BI local/cache files
+*.pbi
+*.pbit
+PowerBI/.tmp/
+PowerBI/.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# SQLite temporary files
+*.db-wal
+*.db-shm
+*.db-journal
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/

@@ -1,0 +1,16 @@
+CustomerID,CustomerName,Country,Region,Segment
+C001,Alpha Manufacturing,South Africa,Southern Africa,Corporate
+C002,Beta Retail,Zimbabwe,Southern Africa,SME
+C003,Gamma Industries,Botswana,Southern Africa,Corporate
+C004,Delta Trading,Namibia,Southern Africa,SME
+C005,Epsilon Technologies,Kenya,East Africa,Corporate
+C006,Zeta Supplies,Tanzania,East Africa,SME
+C007,Omega Holdings,Nigeria,West Africa,Corporate
+C008,Sigma Retail,Ghana,West Africa,SME
+C009,Atlas Group,Egypt,North Africa,Corporate
+C010,Nova Enterprises,Morocco,North Africa,SME
+C011,Prime Industries,South Africa,Southern Africa,Corporate
+C012,Vertex Solutions,Kenya,East Africa,SME
+C013,Summit Trading,Nigeria,West Africa,Corporate
+C014,Global Supplies,Ghana,West Africa,SME
+C015,Unity Manufacturing,Zambia,Southern Africa,Corporate

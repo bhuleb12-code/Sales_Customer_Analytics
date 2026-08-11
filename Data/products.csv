@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Laptop,Technology,850
+P002,Monitor,Technology,250
+P003,Keyboard,Technology,45
+P004,Office Chair,Furniture,180
+P005,Office Desk,Furniture,320
+P006,Printer,Office Equipment,420
+P007,Projector,Office Equipment,650
+P008,Desk Phone,Communication,120
+P009,Router,Networking,150
+P010,Network Switch,Networking,280
