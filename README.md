@@ -4,9 +4,9 @@ An end-to-end business analytics project that transforms raw sales data into act
 
 The project analyses revenue across time, regions, customer segments and sales channels, while identifying high-value customers and overall sales performance.
 
-Workflow: CSV Data → Python → SQLite → Power BI
+**Workflow: CSV Data → Python → SQLite → Power BI**
 
-Tools: Python · SQLite · SQL · Power BI · DAX
+**Tools: Python · SQLite · SQL · Power BI · DAX**
 
 The dataset contains 20 orders across 15 customers, generating total revenue of R95,800 with an average order value of R4,790.
 
